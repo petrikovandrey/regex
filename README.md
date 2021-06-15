@@ -1,2 +1,2 @@
 # regex
-https://ci.appveyor.com/api/projects/status/yvnw5d77qmpwymwo
+https://ci.appveyor.com/api/projects/status/yvnw5d77qmpwymwo?svg=true
